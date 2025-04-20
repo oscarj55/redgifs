@@ -5,3 +5,4 @@ description = "Simple Python API wrapper for the RedGIFs API"
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # clarify the control flow
+# avoid re-reading the config on every call
