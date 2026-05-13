@@ -26,3 +26,4 @@ Notes and usage details for redgifs.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
