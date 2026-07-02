@@ -30,3 +30,4 @@ Notes and usage details for redgifs.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
